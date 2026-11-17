@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1{fill:#bdd2a6}
+      .cls-2{font-family:Arial, sans-serif;font-size:18.769px;fill:#000000}
+    </style>
+  </defs>
+  <title>Artboard 1</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M12 22 C10.62 22 9.32 21.737 8.1 21.21 C6.887 20.683 5.83 19.97 4.93 19.07 C4.03 18.177 3.317 17.12 2.79 15.9 C2.263 14.68 2 13.38 2 12 C2 10.613 2.263 9.313 2.79 8.1 C3.317 6.88 4.03 5.823 4.93 4.93 C5.83 4.023 6.887 3.31 8.1 2.79 C9.32 2.263 10.62 2 12 2 C13.38 2 14.68 2.263 15.9 2.79 C17.12 3.317 18.177 4.03 19.07 4.93 C19.97 5.83 20.683 6.887 21.21 8.1 C21.737 9.313 22 10.613 22 12 C22 13.387 21.737 14.687 21.21 15.9 C20.683 17.113 19.97 18.17 19.07 19.07 C18.17 19.97 17.113 20.683 15.9 21.21 C14.687 21.737 13.387 22 12 22 Z M12 12 Z" class="cls-1"/>
+    <text transform="matrix(0.503 0 0 0.596 5.75 15.879)" x="0" y="0" xml:space="preserve" class="cls-2"><tspan x="0" y="0">ЧЛ</tspan></text>
+  </g>
+</svg>
